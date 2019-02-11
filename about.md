@@ -4,12 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Alberto and I'm a writer and educator from Colombia.
 
-### More Information
+Advisor and content strategist for companies and media properties in Colombia, Spain, United States and Canada. Focus on content creation and innovation, audience building, social listening.
 
-A place to include any other types of information that you'd like to include about yourself.
++ Co-founder of [Boole S.A.S] (https://www.booleapps.com) - Financial literacy for Smallbiz and entrepreneurs
++ Co-founder of Spread & Convert - Content Marketing for Smallbiz
 
-### Contact me
+### Media projects
 
-[email@domain.com](mailto:email@domain.com)
++ Author, curator and researcher of [Contentmarketingblog.co] (https://contentmarketingblog.co)
++ Producer and co-host of [Noches de Blogging] (https://nochesdeblogging.com/)
+
+### Advisor and collaborator
+
++ [Blogpocket] (https://www.blogpocket.com/)
++ Nuadox [https://nuadox.com/]
++ TwitterSmarter [https://madalynsklar.com/]
+
+### Contacto
+
+[albermoire@gmail.com](mailto:albermoire@gmail.com)
