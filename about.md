@@ -18,9 +18,9 @@ Advisor and content strategist for companies and media properties in Colombia, S
 
 ### Advisor and collaborator
 
-+ [Blogpocket] (https://www.blogpocket.com/)
-+ Nuadox [https://nuadox.com/]
-+ TwitterSmarter [https://madalynsklar.com/]
+- [Blogpocket] (https://www.blogpocket.com/)
+- Nuadox [https://nuadox.com/]
+- TwitterSmarter [https://madalynsklar.com/]
 
 ### Contacto
 
