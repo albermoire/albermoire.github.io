@@ -20,7 +20,7 @@ Advisor and content strategist for companies and media properties in Colombia, S
 
 - [Blogpocket](https://www.blogpocket.com/)
 - [Nuadox](https://nuadox.com/)
-- [TwitterSmarter] (https://madalynsklar.com/)
+- [TwitterSmarter](https://madalynsklar.com/)
 
 
 ### Contacto
