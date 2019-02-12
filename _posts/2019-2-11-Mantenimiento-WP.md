@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mantenimiento básico y esencial para WordPress
+title: Un repaso al mantenimiento básico de WordPress
 ---
 
 Todas las páginas web o blogs contruidos con WordPress requieren de mantenimiento frecuente para garantizar su funcionamiento. No realizar estos procedimientos pueden causar:
